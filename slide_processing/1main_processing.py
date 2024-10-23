@@ -22,6 +22,7 @@ init_random_seed(random_seed=42)
 ##======================================================================================================
 
 path2storage = sys.argv[1]
+print(path2storage, '223')
 project = sys.argv[2]
 i_slide = int(sys.argv[3])
 
